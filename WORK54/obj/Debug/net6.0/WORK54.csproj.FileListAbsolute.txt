@@ -1,0 +1,16 @@
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\bin\Debug\net6.0\WORK54.exe
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\bin\Debug\net6.0\WORK54.deps.json
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\bin\Debug\net6.0\WORK54.runtimeconfig.json
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\bin\Debug\net6.0\WORK54.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\bin\Debug\net6.0\ref\WORK54.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\bin\Debug\net6.0\WORK54.pdb
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.GlobalUsings.g.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.csproj.AssemblyReference.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.AssemblyInfoInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.AssemblyInfo.cs
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.csproj.CoreCompileInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\ref\WORK54.dll
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.pdb
+C:\Users\gusev76\Desktop\Катерина учится\3. ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\HOMEWORK_SEM8\WORK54\obj\Debug\net6.0\WORK54.genruntimeconfig.cache
